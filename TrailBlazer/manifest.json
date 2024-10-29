@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "TrailBlazer",
+  "version": "1.0",
+  "description": "Organize web pages into Trails, capturing each browsing journey automatically.",
+  "permissions": [
+    "tabs",
+    "storage"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  }
+}

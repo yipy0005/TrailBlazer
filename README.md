@@ -43,7 +43,7 @@ Follow these steps to install TrailBlazer and start organizing your browsing ses
    - In the file selection window, navigate to the location where you saved the TrailBlazer extension folder. Select the folder and click **Open**.
    
 5. **Confirm Installation**:
-   - You should now see TrailBlazer in your list of Chrome extensions, with a compass-like icon in the Chrome toolbar.
+   - You should now see TrailBlazer in your list of Chrome extensions, with a T-letter icon in the Chrome toolbar.
 
 ---
 
